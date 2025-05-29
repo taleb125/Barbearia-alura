@@ -1,6 +1,4 @@
-body {
-	
-}
+body {}
 
 #banner {
 	width:100%;
@@ -9,6 +7,12 @@ body {
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
+}
+
+.logo {
+	display: flex;
+	justify-content: space-between;
+	font-size: 35px;
 }
 
 .titulo-principal {
