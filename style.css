@@ -44,7 +44,7 @@ em strong {
 	padding: 20px;
 }
 
-ul {
+.beneficios ul {
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
@@ -64,6 +64,10 @@ header {
   position: relative;
   width: 940px;
   margin: 0 auto;
+  padiding: 0 20px;
+  display: flex;
+  align-items: center ;
+  justify-content: space-between;
 }
 
 nav {
